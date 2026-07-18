@@ -36,7 +36,7 @@ A responsive weather application, built for Users to search any city, and fetch 
 
 ## Folder Structure
 
-...
+```
 src
 ├── assets
 ├── App.jsx
@@ -44,7 +44,7 @@ src
 ├── SearchBox.jsx
 ├── InfoBox.jsx
 ├── main.jsx
-...
+```
 
 ---
 
@@ -91,9 +91,7 @@ VITE_API_KEY=YOUR_API_KEY
 
 - React Components
 - State Management
-- Fetch API
 - Async/Await
-- Environment Variables in Vite
 - Material UI
 - API Integration
 
