@@ -87,16 +87,6 @@ VITE_API_KEY=YOUR_API_KEY
 
 ---
 
-## What I Learned
-
-- React Components
-- State Management
-- Async/Await
-- Material UI
-- API Integration
-
----
-
 ## Author
 
 **Madhura Biswas**
