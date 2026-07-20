@@ -1,6 +1,6 @@
 # Weather App
 
-A responsive weather application, built for Users to search any city, and fetch real-time weather information seamlessly.
+A responsive web application, built for Users to search any city, and fetch real-time weather information seamlessly.
 
 ---
 
