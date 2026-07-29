@@ -53,7 +53,7 @@ src
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app-react.git
+git clone https://github.com/scrpoglow/weather-app-react.git
 ```
 
 Move into the folder
@@ -89,6 +89,6 @@ VITE_API_KEY=YOUR_API_KEY
 
 ## Author
 
-**Madhura Biswas**
+**Madhura**
 
 GitHub: https://github.com/scrpoglow
